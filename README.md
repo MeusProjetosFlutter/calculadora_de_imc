@@ -32,11 +32,9 @@ O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais do 
 
 ## Interface
 
-Adicione aqui as capturas de tela da aplicação:
 
-<img width="387" height="864" alt="{96FD5284-C465-401E-A982-B9595A4125D6}" src="https://github.com/user-attachments/assets/892558f3-ecde-4d11-a340-ab3e12f8d5b8" />
-<img width="389" height="864" alt="{A3CFAB0A-EC53-4B60-8986-20A470BF3663}" src="https://github.com/user-attachments/assets/a4e0e267-11d8-4b41-a7a4-dd2451c848c3" />
-<img width="390" height="861" alt="{7A22BE76-652F-4F81-9EC0-B5F45B3F3034}" src="https://github.com/user-attachments/assets/612835e5-8d88-4f6a-b19a-6697f55085e4" />
+
+
 
 
 
@@ -45,11 +43,11 @@ Adicione aqui as capturas de tela da aplicação:
 
 <!-- Substitua pelos caminhos das imagens do seu repositório -->
 
-| Tela inicial | Resultado do cálculo |
-|:---:|:---:|
-| Adicione uma imagem | Adicione uma imagem |
+| Tela inicial | Resultado do cálculo | Outro Resultado |
+|:---:|:---:|:---:|
+| <img width="387" height="864" alt="{96FD5284-C465-401E-A982-B9595A4125D6}" src="https://github.com/user-attachments/assets/892558f3-ecde-4d11-a340-ab3e12f8d5b8" /> | <img width="389" height="864" alt="{A3CFAB0A-EC53-4B60-8986-20A470BF3663}" src="https://github.com/user-attachments/assets/a4e0e267-11d8-4b41-a7a4-dd2451c848c3" />| <img width="390" height="861" alt="{7A22BE76-652F-4F81-9EC0-B5F45B3F3034}" src="https://github.com/user-attachments/assets/612835e5-8d88-4f6a-b19a-6697f55085e4" /> |
 
-## ⚙️ Como executar o projeto
+# Como executar o projeto
 
 1. Clone este repositório:
 
@@ -75,7 +73,7 @@ flutter pub get
 flutter run
 ```
 
-## 👨‍💻 Desenvolvedor
+# Desenvolvedor
 
 Projeto desenvolvido como parte dos meus estudos em **Desenvolvimento Mobile com Flutter e Dart**, com foco no aprendizado prático e na construção de aplicações mobile.
 
